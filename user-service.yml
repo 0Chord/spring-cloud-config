@@ -10,4 +10,9 @@ token:
   secret: user_token_native
 
 gateway:
-  ip: 172.30.21.27
+  ip: 172.30.19.202
+
+order_service:
+  url: http://ORDER-SERVICE/order-service/%s/orders
+  exception:
+    order_is_empty: User's order is empty.
