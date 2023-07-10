@@ -1,0 +1,12 @@
+token:
+  expiration_time: 86400000
+  secret: user_token_native_application_changed
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/spring_cloud_practice
+    username: root
+    password: 1q2w3e4r!
+
+gateway:
+  ip: 172.27.0.88
