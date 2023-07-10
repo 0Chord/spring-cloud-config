@@ -5,8 +5,8 @@ spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/spring_cloud_practice
-    username: root
-    password: 1q2w3e4r!
+    username: '{cipher}7e07b633f3958b3a25d82a2cdc3c2f02ace1b636d8f0287712929bc8b392f269'
+    password: '{cipher}353df6595b93fa1702c0b32a18701d076b95362b42de794127c40637e4a03516'
 
 gateway:
   ip: 172.27.0.88
