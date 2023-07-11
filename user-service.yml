@@ -5,8 +5,8 @@ spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/spring_cloud_practice
-    username: '{cipher}7e07b633f3958b3a25d82a2cdc3c2f02ace1b636d8f0287712929bc8b392f269'
-    password: '{cipher}353df6595b93fa1702c0b32a18701d076b95362b42de794127c40637e4a03516'
+    username: root
+    password: '{cipher}AQA6dmxK36nRjNYJ9GEp7dx3ECrP6e61UEn/4gznH/szbVECfQRNBce6Qju8PKW0MyJeqyXXMszCORtEEaL15HBgsC9H/pZTb1d08tKd7A0mVUB9gEGGZ+p9R2DZ6vXEpBthalknQ41zA+LEu8P183AGHgt28FVQHRcYwTN16LklsCl9ryURMUBlXmaVX6rkuzwXNV6Bl0OAA3RpxGk2ncsWgEb9cS0+sG8riUW9zpi+HuE6b7kxiiN0PHMU0pja9bDj1jhgIql+MWUJ6c6z7HWezUmk1AvuaVyZMuvj1YhkmBXooenIc6PXwYrKwfQEsdEIv2S0s3kjjxvKYy2Wet6anxkZOOpWgzBVlnnnPiMMl3Btp+G/VNkOu1mf/uPIiJ8='
 
 gateway:
   ip: 172.27.0.88
