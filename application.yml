@@ -1,3 +1,9 @@
 token:
   expiration_time: 86400000
   secret: '{cipher}AQB67c1eEKxzOCiAxNbga621wI9nCBrq9riUPBxIrMzdq/L60W2ZUJy1j51LBtKoJmPqZScRuudR80eOElxUg+sYkv5gN0fWmrxLPIdTpA/dfvVwUMJwWQ9VsB8PiosG+M6//MxDZ2U7x067VW8QP3JcS51FC5cQdubt4jVN35OhMdIvZy24BdeSY9fPqO+C8b6rCgc+s3bWjvm8ZyGVHJFj6EnbakYtK2qEJJ2qibZxUXuTqzwc/ckeeoWGIT8TS7x1WZwwQ3XCGan2DJVlENtpb1RDSsXWiiraAxpucdmayHgt6CBeQ3OvdI2bz9IBx0TDoS2ejLAMbYm/KFJnYA6NmymuOqS3g9SRD6EmWD9lNUc/UpcGUQXzgtH0MljmPdxfyjJJvslhi4R085V7Nq1roFQAaJiqZj/kwi2QL+xpmg=='
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/spring_cloud_practice
+    username: root
+    password: '{cipher}AQA6dmxK36nRjNYJ9GEp7dx3ECrP6e61UEn/4gznH/szbVECfQRNBce6Qju8PKW0MyJeqyXXMszCORtEEaL15HBgsC9H/pZTb1d08tKd7A0mVUB9gEGGZ+p9R2DZ6vXEpBthalknQ41zA+LEu8P183AGHgt28FVQHRcYwTN16LklsCl9ryURMUBlXmaVX6rkuzwXNV6Bl0OAA3RpxGk2ncsWgEb9cS0+sG8riUW9zpi+HuE6b7kxiiN0PHMU0pja9bDj1jhgIql+MWUJ6c6z7HWezUmk1AvuaVyZMuvj1YhkmBXooenIc6PXwYrKwfQEsdEIv2S0s3kjjxvKYy2Wet6anxkZOOpWgzBVlnnnPiMMl3Btp+G/VNkOu1mf/uPIiJ8='
