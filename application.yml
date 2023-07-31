@@ -4,6 +4,6 @@ token:
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/spring_cloud_practice
+    url: jdbc:mysql://spring-cloud-mysql:3306/spring_cloud_practice
     username: root
     password: '{cipher}AQA6dmxK36nRjNYJ9GEp7dx3ECrP6e61UEn/4gznH/szbVECfQRNBce6Qju8PKW0MyJeqyXXMszCORtEEaL15HBgsC9H/pZTb1d08tKd7A0mVUB9gEGGZ+p9R2DZ6vXEpBthalknQ41zA+LEu8P183AGHgt28FVQHRcYwTN16LklsCl9ryURMUBlXmaVX6rkuzwXNV6Bl0OAA3RpxGk2ncsWgEb9cS0+sG8riUW9zpi+HuE6b7kxiiN0PHMU0pja9bDj1jhgIql+MWUJ6c6z7HWezUmk1AvuaVyZMuvj1YhkmBXooenIc6PXwYrKwfQEsdEIv2S0s3kjjxvKYy2Wet6anxkZOOpWgzBVlnnnPiMMl3Btp+G/VNkOu1mf/uPIiJ8='
